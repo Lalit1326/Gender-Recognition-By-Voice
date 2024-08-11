@@ -1,4 +1,4 @@
-Gender Recognition by Voice
+
 Gender Recognition by Voice is a project designed to predict gender based on voice input. Developed with Python and R libraries, this project processes audio samples to make gender predictions. A user-friendly interface was later added to enhance usability.
 
 Features
@@ -13,14 +13,13 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/repo-name.git
-Replace your-username and repo-name with your GitHub username and repository name, respectively.
+git clone https://github.com/Lalit1326/Gender-Recognition-By-Voice.git
 
 Navigate to the Project Directory:
 
 bash
 Copy code
-cd repo-name
+cd Gender-Recognition-By-Voice
 Install Dependencies:
 
 You may need to install the required Python and R libraries. Check the project's requirements.txt (for Python) or other documentation for a list of dependencies.
@@ -40,8 +39,6 @@ Get Gender Prediction: The application will process the voice input and display 
 Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate documentation.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgements
 Thanks to the libraries and tools that made this project possible.
